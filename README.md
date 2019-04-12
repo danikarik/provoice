@@ -1,1 +1,3 @@
-# provoice
+# ProVoice
+
+Hackathon Demo Application
